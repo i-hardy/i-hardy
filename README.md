@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello! 👋
+
+I'm a software developer with [The Guardian](https://github.com/guardian/) 📰.
+
+💬 Ask me about:
+- Javascript/Typescript
+- React
+- Developer ethics
+- Web accessibility
+
+👩‍🎓 I'm currently learning
+- Scala
+- Rust
+- The philosophy of Mary Midgeley
+- [Nand2Tetris](https://www.nand2tetris.org/)
+
 
 <!--
 **i-hardy/i-hardy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
